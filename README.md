@@ -46,7 +46,7 @@ Unplanned machine downtime costs manufacturers an average of **€250,000 per ho
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/predictive-maintenance-dashboard.git
+git clone https://github.com/shail03-eng/predictive-maintenance-dashboard.git
 cd predictive-maintenance-dashboard
 ```
 
